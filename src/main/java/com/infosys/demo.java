@@ -9,8 +9,12 @@ public class demo {
 		
 		// bug - 122 fixed
 		System.out.println("bug 122 fixed");
-
-
+		
+		// fixing bug 121 (pending)
+		int a=12;
+		int b=34; 
+		int c=a+b;
+		System.out.println(c);
 	}
 
 }
