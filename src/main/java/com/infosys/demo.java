@@ -5,6 +5,11 @@ public class demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hare krishna prabhu ji");
+		
+		
+		// bug - 122 fixed
+		System.out.println("bug 122 fixed");
+
 
 	}
 
