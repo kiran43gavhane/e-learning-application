@@ -7,10 +7,9 @@ public class demo {
 		System.out.println("hiiiii");
 		
 		
-		// logic of dividing
-		boolean d = true;
-		long t = 3244;
-		
+		// fixing adding problem
+		int a =10;
+	    String b = "kiran";
 		
 	}
 }
