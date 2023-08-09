@@ -16,8 +16,7 @@ public class demo {
 		int c=a+b;
 		System.out.println(c);
 		
-		
-		// bug djnfnfjnfjfnf
+ 
 	}
 
 }
