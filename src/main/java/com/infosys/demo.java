@@ -7,5 +7,12 @@ public class demo {
 		
  
 	}
+	
+	
+	// bug 151 is fixed
+	public void cat()
+	{
+		System.out.println("cat is walking");
+	}
 
 }
