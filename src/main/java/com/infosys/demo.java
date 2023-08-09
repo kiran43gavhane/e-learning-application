@@ -10,6 +10,8 @@ public class demo {
 		// fixing adding problem
 		int a =10;
 	    String b = "kiran";
+
+		System.out.println("nad karayacha nay");
 		
 	}
 }
